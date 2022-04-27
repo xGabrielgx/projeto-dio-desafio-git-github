@@ -1,0 +1,15 @@
+Git - Funções 
+cd / ou + Pasta = Para entrar em alguma pasta.
+cd .. = Para voltar um nível.
+mkdir = Para criar pasta.
+del = Deletar arquivos.
+rmdir = Excluir pastas ou repositórios.
+crtl + l = Limpar o terminal git bash.
+echo hello > hello.txt = Cria um arquivo dentro da pasta.
+mv = para mover arquivos.
+git init = Iniciar um repositório do Git
+git commit -m "Adicionar um comentário"= Preparando para ser puxado para a nuvem github.
+git clone + link do repositório = Para clonar um repositório. 
+git add . ou git add –A  = Adicionar todos os arquivos.
+git push origin main = Puxar pro repositório remoto alterações.
+ 
