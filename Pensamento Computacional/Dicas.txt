@@ -1,0 +1,9 @@
+ 4 pilares : 
+
+ Decomposição : Dividir um problema complexo em pequenas partes, para ter uma solução com mais facilidade atributo que você consegue segmentar para decompor.
+ 
+ Reconhecimento de padrões : ajuda na identificação de aspectos comuns nos processos; os padrões que a maioria tende a fazer.
+ 
+ Abstração : Pegar uma idéia do concreto e leva ela para o abstrato, para perceber os elementos com maior importância.
+
+ Design de Algoritmos : Definir passo a passo a resolução de um problema; Entrada - processamento - Saída. (dados)
