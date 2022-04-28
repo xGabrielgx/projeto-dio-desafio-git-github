@@ -1,0 +1,3 @@
+Link para Download do Git: https://git-scm.com/downloads
+
+Link para sintaxe Markdown: https://markdown.net.br/sintaxe-basica/ 
